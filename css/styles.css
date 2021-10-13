@@ -1,0 +1,83 @@
+  body{
+    background: rgb(234, 241, 241);
+  }
+
+  .innerDiv{
+    padding: 30px;
+  }
+
+  nav{
+    margin-top: 20px;
+    background: rgb(85, 93, 97);
+    color: white;
+    font-weight: bold;
+  }
+
+  .blankbox{
+    width: 100%;
+    height: 200px;
+    background: rgb(85, 93, 97);
+  }
+
+  .innercard{
+    padding: 15px;
+  }
+
+  .innerbtn{
+    text-align: center;
+  }
+
+  .innerbtn .btn{
+    padding: 5px 40px;
+  }
+
+  .section{
+    padding-top: 75px;
+    padding-bottom: 20px;
+  }
+
+  .landingSec{
+    height: 70vh;
+    width: 100%;
+  }
+
+  .darkSec{
+    background: rgb(85, 93, 97);
+    color: white;
+  }
+
+  .centerHor{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .emphasis{
+    font-size: 1.02em;
+    font-weight: bold;
+  }
+
+  h3, p{
+    text-align: center;
+  }
+
+  h1, h2{
+    font-family: Lobster, Monospace;
+    text-align: center;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: sans-serif;
+  }
+
+  .thick-blue-border {
+    border-color: blue;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
